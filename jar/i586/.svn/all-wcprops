@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/jar/i586
+END
+gluegen-rt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/jar/i586/gluegen-rt.jar
+END
+jogl-all-natives-windows-i586.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/jar/i586/jogl-all-natives-windows-i586.jar
+END
+gluegen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/jar/i586/gluegen.jar
+END
+jogl.all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/jar/i586/jogl.all.jar
+END
+gluegen-rt-natives-windows-i586.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/jar/i586/gluegen-rt-natives-windows-i586.jar
+END

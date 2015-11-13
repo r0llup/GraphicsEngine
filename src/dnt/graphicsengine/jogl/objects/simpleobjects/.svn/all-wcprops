@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sedna/!svn/ver/436/trunk/GraphicEngine/src/dnt/graphicsengine/jogl/objects/simpleobjects
+END
+TexturedSquareJOGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sedna/!svn/ver/319/trunk/GraphicEngine/src/dnt/graphicsengine/jogl/objects/simpleobjects/TexturedSquareJOGL.java
+END
+LineJOGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sedna/!svn/ver/419/trunk/GraphicEngine/src/dnt/graphicsengine/jogl/objects/simpleobjects/LineJOGL.java
+END
+UntexturedSimpleObjectJOGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sedna/!svn/ver/419/trunk/GraphicEngine/src/dnt/graphicsengine/jogl/objects/simpleobjects/UntexturedSimpleObjectJOGL.java
+END
+PointJOGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sedna/!svn/ver/419/trunk/GraphicEngine/src/dnt/graphicsengine/jogl/objects/simpleobjects/PointJOGL.java
+END
+SurfaceJOGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sedna/!svn/ver/433/trunk/GraphicEngine/src/dnt/graphicsengine/jogl/objects/simpleobjects/SurfaceJOGL.java
+END
+SquareJOGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sedna/!svn/ver/436/trunk/GraphicEngine/src/dnt/graphicsengine/jogl/objects/simpleobjects/SquareJOGL.java
+END
+PolygonJOGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sedna/!svn/ver/419/trunk/GraphicEngine/src/dnt/graphicsengine/jogl/objects/simpleobjects/PolygonJOGL.java
+END

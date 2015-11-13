@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/lib/i586
+END
+nativewindow_win32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/lib/i586/nativewindow_win32.dll
+END
+gluegen-rt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/lib/i586/gluegen-rt.dll
+END
+newt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/lib/i586/newt.dll
+END
+nativewindow_awt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/lib/i586/nativewindow_awt.dll
+END
+jogl_desktop.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sedna/!svn/ver/53/trunk/GraphicEngine/lib/i586/jogl_desktop.dll
+END

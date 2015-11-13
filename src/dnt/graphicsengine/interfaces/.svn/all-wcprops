@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sedna/!svn/ver/410/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces
+END
+Object.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sedna/!svn/ver/410/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/Object.java
+END
+ComplexObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sedna/!svn/ver/226/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/ComplexObject.java
+END
+GraphicsEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sedna/!svn/ver/379/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/GraphicsEngine.java
+END
+Scene.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sedna/!svn/ver/174/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/Scene.java
+END
+TexturedSimpleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sedna/!svn/ver/259/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/TexturedSimpleObject.java
+END
+Light.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sedna/!svn/ver/252/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/Light.java
+END
+Camera.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sedna/!svn/ver/174/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/Camera.java
+END
+UntexturedSimpleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sedna/!svn/ver/242/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/UntexturedSimpleObject.java
+END
+SimpleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sedna/!svn/ver/410/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/SimpleObject.java
+END
+SceneManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sedna/!svn/ver/379/trunk/GraphicEngine/src/dnt/graphicsengine/interfaces/SceneManager.java
+END
